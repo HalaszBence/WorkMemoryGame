@@ -1,2 +1,2 @@
 # UnityGames
-Repository for an ongoing game project
+Repository for an ongoing work memory improvement game
